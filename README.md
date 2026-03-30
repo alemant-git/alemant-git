@@ -8,17 +8,17 @@
 
 ---
 
-### 🌌 Про мене
+### 🌌 About Me
 
-Привіт! Я — **alemant-git**. Займаюся розробкою AI-агентів, архітектурою складних систем та автоматизацією процесів (зокрема в приватних репозиторіях). 
+Hi! I am **alemant-git**. I'm specializing in AI agent development, complex system architecture, and process automation (including private repositories).
 
-Мій головний фокус зараз — проєкт **Antigravity**, який об'єднує в собі потужність багатьох спеціалізованих агентів для вирішення складних технічних та творчих завдань.
+My primary focus currently is the **Antigravity** project, which harnesses the cumulative power of multiple specialized agents to tackle complex technical and creative challenges.
 
 ---
 
-### 🤖 Стек AI інструментів
+### 🤖 AI Tool Stack
 
-| Категорія | Інструменти |
+| Category | Tools |
 | :--- | :--- |
 | **LLMs** | Google Gemini (Pro/Flash), Claude 3.5 (Opus/Sonnet), GPT-5, Grok, etc. |
 | **Frameworks** | MCP (Model Context Protocol), LangChain, LangGraph |
@@ -27,7 +27,7 @@
 
 ---
 
-### 💻 Технологічний стек
+### 💻 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,12 +43,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
 </p>
 
 ---
 
-### 🔗 Зв'язок
+### 🔗 Get in Touch
 
 <p align="left">
   <a href="https://x.com/Oleksandr_Mant">
