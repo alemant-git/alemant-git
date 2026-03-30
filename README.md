@@ -48,16 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alemant-git&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemant-git&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
 ### 🔗 Зв'язок
 
 <p align="left">
