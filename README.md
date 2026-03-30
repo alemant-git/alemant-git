@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alemant-git/blob/main/Brand/github_profile_banner.png" width="100%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/alemant-git/main/Brand/github_profile_banner.png" width="100%" alt="Banner">
 </p>
 
 <p align="center">
