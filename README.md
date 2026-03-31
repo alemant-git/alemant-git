@@ -55,6 +55,9 @@ My primary focus currently is the **Antigravity** project, which harnesses the c
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alemant-git&color=7F00FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 <p align="center">
   <i>"Beyond the limits of gravity."</i>
