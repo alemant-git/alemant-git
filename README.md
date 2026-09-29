@@ -20,7 +20,7 @@ My primary focus currently is the **Antigravity** project, which harnesses the c
 
 | Category | Tools |
 | :--- | :--- |
-| **LLMs** | Google Gemini (Pro/Flash), Claude 3.5 (Opus/Sonnet), GPT-5, Grok, etc. |
+| **LLMs** | Google Gemini (Pro/Flash), Claude (Opus/Sonnet), GPT, Grok, etc. |
 | **Frameworks** | MCP (Model Context Protocol), LangChain, LangGraph |
 | **Automation** | Antigravity Agents, Python Automation |
 | **AI Productivity** | NotebookLM, Visual Studio Code, Perplexity, etc. |
